@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Clima-Flutter\\build\\geolocator\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_tint.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-2\\files-2.1\\82693c7f29aac3d0903f5c0b04b9ecbf\\play-services-base-17.2.1\\res\\color\\common_google_signin_btn_tint.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Clima-Flutter\\build\\geolocator\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_light.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-2\\files-2.1\\82693c7f29aac3d0903f5c0b04b9ecbf\\play-services-base-17.2.1\\res\\color\\common_google_signin_btn_text_light.xml"
+    },
+    {
+        "merged": "C:\\Users\\ASUS\\AndroidStudioProjects\\Clima-Flutter\\build\\geolocator\\intermediates\\res\\merged\\release\\color\\common_google_signin_btn_text_dark.xml",
+        "source": "C:\\Users\\ASUS\\.gradle\\caches\\transforms-2\\files-2.1\\82693c7f29aac3d0903f5c0b04b9ecbf\\play-services-base-17.2.1\\res\\color\\common_google_signin_btn_text_dark.xml"
+    }
+]
